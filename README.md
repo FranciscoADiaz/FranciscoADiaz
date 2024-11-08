@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hi! 👋 I´m Francisco Díaz
+Web developer with a passion for technology and clean code.
 
-<!--
-**FranciscoADiaz/FranciscoADiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- JavaScript, HTML, CSS
+- React, Node.js
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
+
+## 🌟 Proyectos destacados
+- [Mi portafolio](https://miportafolio.com)
+- [GitHub](https://github.com/FranciscoDiaz/todo-app)
+
+
+## 📫 Contacto
+- [LinkedIn](https://linkedin.com/in/franciscodiaz)
+- [Twitter](https://twitter.com/franciscodiaz)
+
+- 🔭 I’m currently working on Microsoft
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: Arieldiazx@outlook.com.ar
+- ⚡ Fun fact: I don´t bathe

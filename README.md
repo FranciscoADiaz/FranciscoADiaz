@@ -2,21 +2,23 @@
 Web developer with a passion for technology and clean code.
 
 
-## 🚀 Tecnologías
+## 🚀 Technologies
 - JavaScript, HTML, CSS
 - React, Node.js
 - Git, GitHub
 
 
-## 🌟 Proyectos destacados
+## 🌟 Featured projects
 - [Mi portafolio](https://miportafolio.com)
 - [GitHub](https://github.com/FranciscoDiaz/todo-app)
 
 
-## 📫 Contacto
+## 📞 Contact
 - [LinkedIn](https://linkedin.com/in/franciscodiaz)
 - [Twitter](https://twitter.com/franciscodiaz)
 
+
+##  Other
 - 🔭 I’m currently working on Microsoft
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

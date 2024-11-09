@@ -3,13 +3,13 @@ Web developer with a passion for technology and clean code.
 
 
 ## 🚀 Technologies
-- JavaScript, HTML, CSS
+- HTML, CSS, JavaScript
 - React, Node.js
 - Git, GitHub
 
 
 ## 🌟 Featured projects
-- [Mi portafolio](https://miportafolio.com)
+- [My Portfolio](https://miportafolio.com)
 - [GitHub](https://github.com/FranciscoDiaz/todo-app)
 
 

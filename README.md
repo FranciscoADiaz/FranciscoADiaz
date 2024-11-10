@@ -1,13 +1,15 @@
 
 <div align="center">
 	<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hi!+👋+I´m+Francisco+Díaz;Web+developer+with+a+passion+for+technology;+;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hi+There!+👋+I´m+Francisco+Díaz;This+Is+My+Profile+😃;"></a>
 </p>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXAwNHY1aTVqNTl2NmpldzI0MjEzemlseHgwY3dsOWgzMnozZHRzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="300px"/>
 </div>
 
-
+## <h2 align="center">🕑At the moment </h2>
+- 🔭 I’m currently working ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
 
 ## <h2 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Technologies </h2>
 
@@ -25,6 +27,8 @@
 
 
 
+
+
 ## <h2 align="center" >📞 Contact</h2>
  <div class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
@@ -39,10 +43,5 @@
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
  </div>
 
-## <h2 align="center" > Other</h2>
-- 🔭 I’m currently working on Microsoft
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: Arieldiazx@outlook.com.ar
+## <h2 align="center" >☢️Others</h2>
 - ⚡ Fun fact: I don´t bathe

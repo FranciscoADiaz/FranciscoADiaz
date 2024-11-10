@@ -7,9 +7,9 @@
 </div>
 
 ## <h2 align="center">🕑At the moment </h2>
-- 🔭 I’m currently working ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working at: Tesla, Inc.
+- 🌱 I’m currently learning: Artificial Intelligence
+- 👯 I’m looking to collaborate on: Killer Robots
 
 ## <h2 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Technologies </h2>
 

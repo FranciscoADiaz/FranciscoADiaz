@@ -31,8 +31,7 @@
 
 ## <h2 align="center" >📞 Contact</h2>
  <div class="icons-social" style="margin-left: 10px;">
-<a style="margin-left: 5px;" target="_blank" href="Arieldiazx@outlook.com.ar">
-<img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" width="50px"></a> <br/>
+<img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" width="50px">Arieldiazx@outlook.com.ar  <br/>
 <a style="margin-left: 5px;"  target="_blank" href="">
 <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50px"></a>
  </div>

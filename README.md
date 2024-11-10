@@ -32,10 +32,11 @@
 ## <h2 align="center" >📞 Contact</h2>
  <div class="icons-social" style="margin-left: 10px;">
 <a style="margin-left: 5px;" target="_blank" href="Arieldiazx@outlook.com.ar">
-<img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" width="50px"></a>
+<img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" width="50px"></a> <br/>
 <a style="margin-left: 5px;"  target="_blank" href="">
 <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50px"></a>
  </div>
 
-## <h2 align="center" >☢️Others</h2>
-- ⚡ Fun fact: I don´t bathe
+## <h2 align="center" > <img src="https://img.icons8.com/?size=100&id=HAUEex9XtCwy&format=png&color=000000" width="40px"></a>Others</h2>
+-Fun fact: I don´t bathe 🛁
+

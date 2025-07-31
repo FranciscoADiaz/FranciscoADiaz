@@ -4,8 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hi+There!+👋+I´m+Francisco+Díaz;This+Is+My+Profile+😃;"></a>
 </p>
 <div align="center">
-  <img src="https://res.cloudinary.com/dpy5kwico/image/upload/v1753947327/1_wjf7tl.gif
-	  " width="150" />
+  <img src="https://res.cloudinary.com/dpy5kwico/image/upload/v1753947327/1_wjf7tl.gif" width="150" />
 </div>
 </div>
 

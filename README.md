@@ -40,8 +40,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=franciscoadiaz&theme=tokyonight)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=franciscoadiaz&theme=onedark&rank=S,AAA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=franciscoadiaz&theme=onedark&rank=S,AAA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## <h2 align="center" >📞 Contact</h2>

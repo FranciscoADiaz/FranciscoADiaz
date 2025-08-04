@@ -33,7 +33,15 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+## 📈 My Github stats
 
+![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoadiaz&show_icons=true&theme=tokyonight)
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=franciscoadiaz&theme=tokyonight)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=franciscoadiaz&theme=onedark&rank=S,AAA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## <h2 align="center" >📞 Contact</h2>

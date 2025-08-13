@@ -67,3 +67,11 @@ https...
 
 </div>
 
+</a>
+
+<p>
+📧 <a href="mailto:Arieldiazx@outlook.com.ar">Arieldiazx@outlook.com.ar</a>
+</p>
+
+</div>
+

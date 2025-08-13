@@ -51,7 +51,7 @@ https...
     <img alt="Email" 
       src="https://img.shields.io/badge/Email-Enviar-1f2937?style=for-the-badge&logo=minutemailer&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO" title="LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/francisco-diaz-developer/" title="LinkedIn" target="_blank">
     <img alt="LinkedIn" 
       src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>

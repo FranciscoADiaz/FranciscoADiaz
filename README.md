@@ -48,36 +48,15 @@ https...
 ## <h2 align="center">📞 Contacto</h2>
 
 <p align="center">
-  <!-- Email -->
   <a href="mailto:Arieldiazx@outlook.com.ar" title="Enviar correo">
     <img alt="Email" 
       src="https://img.shields.io/badge/Email-Arieldiazx%40outlook.com.ar-000?style=flat&logo=minutemailer&logoColor=white">
   </a>
-  <!-- LinkedIn (REEMPLAZA TU-USUARIO) -->
-  <a href="https://www.linkedin.com/in/TU-USUARIO" title="LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/francisco-diaz-developer/" title="LinkedIn" target="_blank">
     <img alt="LinkedIn" 
       src="https://img.shields.io/badge/LinkedIn-Perfil-000?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <!-- GitHub (REEMPLAZA TU-USUARIO) -->
-  <a href="https://github.com/TU-USUARIO" title="GitHub" target="_blank">
-    <img alt="GitHub" 
-      src="https://img.shields.io/badge/GitHub-Repos-000?style=flat&logo=github&logoColor=white">
-  </a>
-  <!-- WhatsApp (opcional: REEMPLAZA 54TU_NUMERO) -->
-  <a href="https://wa.me/54TU_NUMERO" title="WhatsApp" target="_blank">
-    <img alt="WhatsApp" 
-      src="https://img.shields.io/badge/WhatsApp-Escribime-000?style=flat&logo=whatsapp&logoColor=white">
-  </a>
 </p>
-
-
 </div>
-
-</a>
-
-<p>
-📧 <a href="mailto:Arieldiazx@outlook.com.ar">Arieldiazx@outlook.com.ar</a>
-</p>
-
 </div>
 

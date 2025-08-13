@@ -47,23 +47,29 @@ https...
 
 ## <h2 align="center">📞 Contacto</h2>
 
-<div align="center">
-
-<a href="mailto:Arieldiazx@outlook.com.ar" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" width="40px" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40px" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/TU-USUARIO" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="40px" alt="GitHub" />
-</a>
-
-<p>
-📧 <a href="mailto:Arieldiazx@outlook.com.ar">Arieldiazx@outlook.com.ar</a>
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:Arieldiazx@outlook.com.ar" title="Enviar correo">
+    <img alt="Email" 
+      src="https://img.shields.io/badge/Email-Arieldiazx%40outlook.com.ar-000?style=flat&logo=minutemailer&logoColor=white">
+  </a>
+  <!-- LinkedIn (REEMPLAZA TU-USUARIO) -->
+  <a href="https://www.linkedin.com/in/TU-USUARIO" title="LinkedIn" target="_blank">
+    <img alt="LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-Perfil-000?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <!-- GitHub (REEMPLAZA TU-USUARIO) -->
+  <a href="https://github.com/TU-USUARIO" title="GitHub" target="_blank">
+    <img alt="GitHub" 
+      src="https://img.shields.io/badge/GitHub-Repos-000?style=flat&logo=github&logoColor=white">
+  </a>
+  <!-- WhatsApp (opcional: REEMPLAZA 54TU_NUMERO) -->
+  <a href="https://wa.me/54TU_NUMERO" title="WhatsApp" target="_blank">
+    <img alt="WhatsApp" 
+      src="https://img.shields.io/badge/WhatsApp-Escribime-000?style=flat&logo=whatsapp&logoColor=white">
+  </a>
 </p>
+
 
 </div>
 

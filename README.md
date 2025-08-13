@@ -45,9 +45,25 @@
 ## 📈 Featured Proyect
 https...
 
-## <h2 align="center" >📞 Contact</h2>
- <div class="icons-social" style="margin-left: 10px;">
-<img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" width="50px">Arieldiazx@outlook.com.ar  <br/>
-<a style="margin-left: 5px;"  target="_blank" href="">
-<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50px"></a>
- </div>
+## <h2 align="center">📞 Contacto</h2>
+
+<div align="center">
+
+<a href="mailto:Arieldiazx@outlook.com.ar" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" width="40px" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40px" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/TU-USUARIO" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="40px" alt="GitHub" />
+</a>
+
+<p>
+📧 <a href="mailto:Arieldiazx@outlook.com.ar">Arieldiazx@outlook.com.ar</a>
+</p>
+
+</div>
+

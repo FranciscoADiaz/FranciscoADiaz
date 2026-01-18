@@ -10,7 +10,7 @@
 
 ## <h2 align="center">🕑At the moment </h2>
 - I’m currently working at: Learning.. .
-- I’m currently learning: Stack MERN
+- I’m currently learning: Stack MERN adn N8N.
 - I’m looking to collaborate on: My First Experience
 
 ## <h2 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Technologies </h2>
